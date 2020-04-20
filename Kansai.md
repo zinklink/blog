@@ -8,12 +8,12 @@
 
 # 私鐵
 
-- 南海電鐵
-- 大阪地下鐵
-- 阪急電車
-- 阪神電車
-- 京阪電車
-- 叡山電鐵
+- [南海電鐵](http://www.nankai.co.jp/)
+- [大阪地下鐵](https://www.osakametro.co.jp/)
+- [阪急電車](https://www.hankyu.co.jp/) 
+- [阪神電車](https://www.hanshin.co.jp/) 
+- [京阪電車](https://www.keihan.co.jp)
+- [叡山電車](https://eizandensha.co.jp/) 
 
 | 地區 | JR                   | 私鐵                                         |
 | ---- | -------------------- | -------------------------------------------- |
